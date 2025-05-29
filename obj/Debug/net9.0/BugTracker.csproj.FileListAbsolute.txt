@@ -1,0 +1,14 @@
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\bin\Debug\net9.0\BugTracker.exe
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\bin\Debug\net9.0\BugTracker.deps.json
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\bin\Debug\net9.0\BugTracker.runtimeconfig.json
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\bin\Debug\net9.0\BugTracker.dll
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\bin\Debug\net9.0\BugTracker.pdb
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\obj\Debug\net9.0\BugTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\obj\Debug\net9.0\BugTracker.AssemblyInfoInputs.cache
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\obj\Debug\net9.0\BugTracker.AssemblyInfo.cs
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\obj\Debug\net9.0\BugTracker.csproj.CoreCompileInputs.cache
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\obj\Debug\net9.0\BugTracker.dll
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\obj\Debug\net9.0\refint\BugTracker.dll
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\obj\Debug\net9.0\BugTracker.pdb
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\obj\Debug\net9.0\BugTracker.genruntimeconfig.cache
+C:\Users\theac\OneDrive\Documents\Coding\CodingProjects\C#\BugTracker\obj\Debug\net9.0\ref\BugTracker.dll
